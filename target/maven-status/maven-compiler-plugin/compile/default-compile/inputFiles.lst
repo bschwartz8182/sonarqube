@@ -1,0 +1,16 @@
+/Users/billschwartz/Documents/sonar-custom-rules-examples/java-custom-rules/src/main/java/org/sonar/samples/java/checks/SpringControllerRequestMappingEntityRule.java
+/Users/billschwartz/Documents/sonar-custom-rules-examples/java-custom-rules/src/main/java/org/sonar/samples/java/checks/PrinterVisitor.java
+/Users/billschwartz/Documents/sonar-custom-rules-examples/java-custom-rules/src/main/java/org/sonar/samples/java/checks/MyCustomSubscriptionRule.java
+/Users/billschwartz/Documents/sonar-custom-rules-examples/java-custom-rules/src/main/java/org/sonar/samples/java/checks/AvoidHardCodedDebugRule.java
+/Users/billschwartz/Documents/sonar-custom-rules-examples/java-custom-rules/src/main/java/org/sonar/samples/java/checks/AvoidAnnotationRule.java
+/Users/billschwartz/Documents/sonar-custom-rules-examples/java-custom-rules/src/main/java/org/sonar/samples/java/checks/AvoidEnvironmentSpecificLogicRule.java
+/Users/billschwartz/Documents/sonar-custom-rules-examples/java-custom-rules/src/main/java/org/sonar/samples/java/MyJavaFileCheckRegistrar.java
+/Users/billschwartz/Documents/sonar-custom-rules-examples/java-custom-rules/src/main/java/org/sonar/samples/java/RulesList.java
+/Users/billschwartz/Documents/sonar-custom-rules-examples/java-custom-rules/src/main/java/org/sonar/samples/java/checks/IncludeExceptionInCatchBlockRule.java
+/Users/billschwartz/Documents/sonar-custom-rules-examples/java-custom-rules/src/main/java/org/sonar/samples/java/MyJavaRulesDefinition.java
+/Users/billschwartz/Documents/sonar-custom-rules-examples/java-custom-rules/src/main/java/org/sonar/samples/java/checks/AvoidBrandInMethodNamesRule.java
+/Users/billschwartz/Documents/sonar-custom-rules-examples/java-custom-rules/src/main/java/org/sonar/samples/java/checks/AvoidMethodDeclarationRule.java
+/Users/billschwartz/Documents/sonar-custom-rules-examples/java-custom-rules/src/main/java/org/sonar/samples/java/MyJavaRulesPlugin.java
+/Users/billschwartz/Documents/sonar-custom-rules-examples/java-custom-rules/src/main/java/org/sonar/samples/java/checks/SecurityAnnotationMandatoryRule.java
+/Users/billschwartz/Documents/sonar-custom-rules-examples/java-custom-rules/src/main/java/org/sonar/samples/java/checks/AvoidUnmodifiableListRule.java
+/Users/billschwartz/Documents/sonar-custom-rules-examples/java-custom-rules/src/main/java/org/sonar/samples/java/checks/AvoidSuperClassRule.java

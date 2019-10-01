@@ -1,0 +1,12 @@
+/Users/billschwartz/Documents/sonar-custom-rules-examples/java-custom-rules/src/test/java/org/sonar/samples/java/checks/AvoidHardCodedDebugCheckTest.java
+/Users/billschwartz/Documents/sonar-custom-rules-examples/java-custom-rules/src/test/java/org/sonar/samples/java/checks/SpringControllerRequestMappingEntityRuleTest.java
+/Users/billschwartz/Documents/sonar-custom-rules-examples/java-custom-rules/src/test/java/org/sonar/samples/java/checks/AvoidSuperClassCheckTest.java
+/Users/billschwartz/Documents/sonar-custom-rules-examples/java-custom-rules/src/test/java/org/sonar/samples/java/checks/AvoidUnmodifiableListTest.java
+/Users/billschwartz/Documents/sonar-custom-rules-examples/java-custom-rules/src/test/java/org/sonar/samples/java/checks/AvoidMethodDeclarationCheckTest.java
+/Users/billschwartz/Documents/sonar-custom-rules-examples/java-custom-rules/src/test/java/org/sonar/samples/java/checks/AvoidAnnotationCheckTest.java
+/Users/billschwartz/Documents/sonar-custom-rules-examples/java-custom-rules/src/test/java/org/sonar/samples/java/MyJavaRulesDefinitionTest.java
+/Users/billschwartz/Documents/sonar-custom-rules-examples/java-custom-rules/src/test/java/org/sonar/samples/java/checks/IncludeExceptionInCatchBlockCheckTest.java
+/Users/billschwartz/Documents/sonar-custom-rules-examples/java-custom-rules/src/test/java/org/sonar/samples/java/checks/AvoidEnvironmentSpecificLogicCheckTest.java
+/Users/billschwartz/Documents/sonar-custom-rules-examples/java-custom-rules/src/test/java/org/sonar/samples/java/checks/SecurityAnnotationMandatoryCheckTest.java
+/Users/billschwartz/Documents/sonar-custom-rules-examples/java-custom-rules/src/test/java/org/sonar/samples/java/checks/AvoidBrandInMethodNamesCheckTest.java
+/Users/billschwartz/Documents/sonar-custom-rules-examples/java-custom-rules/src/test/java/org/sonar/samples/java/checks/MyCustomSubscriptionRuleTest.java
